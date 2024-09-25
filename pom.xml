@@ -14,7 +14,7 @@
     <name>vetconnect-plattform</name>
     <description>vetconnect-plattform</description>
     <properties>
-        <java.version>java21</java.version>
+        <java.version>21</java.version>
         <spring-modulith.version>1.1.4</spring-modulith.version>
     </properties>
     <dependencies>
